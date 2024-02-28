@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../.git"
+		},
+		{
+			"path": "../../Coffee_tienda"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Coffe_shop"
+	}
+}
